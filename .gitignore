@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+*.log
+haters/
+.idea/
+JavaScript_Drum_kit/
+JS_and_CSS_Clock/
+CSS_Variables/
